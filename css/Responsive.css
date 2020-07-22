@@ -1,0 +1,1068 @@
+@media only screen and (min-width: 2048px){
+    
+}
+
+@media only screen and (min-width: 1600px) and (max-width: 2047px){
+    
+}
+
+@media only screen and (min-width: 1440px) and (max-width: 1599px){
+    
+}
+
+@media only screen and (min-width: 1170px) and (max-width: 1245px){
+    
+}
+
+@media only screen and (min-width: 960px) and (max-width: 1169px){
+    
+    /*** top banner sec start ***/
+    
+    .top_banner img{
+        width: 1700px;
+        left: 50%;
+        margin-left: -850px;
+    }
+    .top_banner .logo_nav img.logo{
+        width: 90%;
+    }
+    #header .navMenu ul li a{
+        padding: 28px 18px;
+    }
+    .banner_cap{
+        top: 160px;
+    }
+    /*** top banner sec end ***/
+    
+    /*** blockchain sec start ***/
+    
+    .blockchain{
+	   padding-top: 60px;
+    }
+    .blockchain p{
+        padding-left: 100px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .blockchain a{
+        margin-left: 100px;
+    }
+    /*** blockchain sec end ***/
+    
+    /*** brunch sec start ***/
+    
+    .brunch{
+        padding-top: 120px;
+    }
+    .brunch h2{
+        padding-bottom: 60px;
+    }
+    .brunch .overlay_bg{
+        margin: 25px 18px;
+    }
+    /*** brunch sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding: 65px 0;
+        height: auto;
+    }
+    
+    /*** blog sec end ***/
+    
+    /*** press sec start ***/
+    
+    .press{
+        padding-top: 80px;
+    }
+    .press h2{
+        padding-bottom: 60px;
+    }
+    .press img.press_bg{
+        left: -5%;
+        height: 490px;
+    }
+    .press .press_pic{
+        padding: 0px;
+    }
+    .press p.date{
+        padding-bottom: 25px;
+    }
+    .press p{
+        padding-bottom: 28px;
+    }
+    /*** press sec end ***/
+    
+    /*** partners sec start ***/
+    
+    .partners{
+        padding-top: 85px;
+    }
+    .partners h2{
+        padding-bottom: 60px;
+    }
+    .partners p{
+        padding: 50px 0;
+    }
+    /*** partners sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer img{
+        width: 100%;
+    }
+    footer input[type="text"]{
+        width: 208px;
+    }
+    footer input[type="email"]{
+        width: 208px;
+    }
+    footer textarea{
+        width: 208px;
+    }
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 769px) and (max-width: 959px){
+    
+    /*** top banner sec start ***/
+    
+    .top_banner img{
+        width: 1500px;
+        left: 50%;
+        margin-left: -750px;
+    }
+    .top_banner .logo_nav img.logo{
+        width: 90%;
+    }
+    .banner_cap{
+        top: 130px;
+    }
+    .top_banner .banner_cap h1{
+        padding-bottom: 20px;
+    }
+    .top_banner .banner_cap p{
+        width: 65%;
+        padding-bottom: 28px;
+    }
+    /*** top banner sec end ***/
+    
+    /*** blockchain sec start ***/
+    
+    .blockchain{
+	   padding-top: 50px;
+    }
+    .blockchain h2{
+        padding-bottom: 50px;
+    }
+    .blockchain p{
+        padding-left: 15px;
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .blockchain a{
+        margin-left: 15px;
+    }
+    /*** blockchain sec end ***/
+    
+    /*** brunch sec start ***/
+    
+    .brunch{
+        padding-top: 65px;
+    }
+    .brunch h2{
+        padding-bottom: 50px;
+    }
+    .brunch .overlay_bg{
+        margin: 25px 11px;
+    }
+    .brunch p{
+        padding: 40px 0;
+    }
+    /*** brunch sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding: 65px 0;
+        height: auto;
+    }
+    .blog .tab{
+        padding-bottom: 15px;
+    }
+    .blog .blog_box h5{
+        font-size: 16PX;
+    }
+    /*** blog sec end ***/
+    
+    /*** press sec start ***/
+    
+    .press{
+        padding-top: 60px;
+    }
+    .press h2{
+        padding-bottom: 60px;
+    }
+    .press img.press_bg{
+        left: -5%;
+        height: 490px;
+    }
+    .press .press_pic{
+        padding: 0px;
+    }
+    .press p.date{
+        padding: 20px 0;
+    }
+    .press h4{
+        width: 100%;
+        font-size: 30px;
+    }
+    .press p{
+        padding-bottom: 28px;
+        width: 100%;
+    }
+    /*** press sec end ***/
+    
+    /*** partners sec start ***/
+    
+    .partners{
+        padding-top: 60px;
+    }
+    .partners h2{
+        padding-bottom: 60px;
+    }
+    .partners p{
+        padding: 40px 0;
+    }
+    .partners img{
+        width: 100%;
+    }
+    /*** partners sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer img{
+        width: auto;
+        display: block;
+        margin: 0px auto;
+    }
+    footer p{
+        text-align: center;
+        margin: 0px auto;
+        width: 59%;
+    }
+    a.read_more{
+        text-align: center;
+        display: block;
+        padding-bottom: 15px;
+    }
+    footer .social{
+        width: auto;
+        margin: 0px auto;
+        display: table;
+        padding-bottom: 15px;
+    }
+    footer input[type="text"]{
+        width: 100%;
+    }
+    footer input[type="email"]{
+        width: 100%;
+    }
+    footer textarea{
+        width: 100%;
+    }
+    footer p.copyright{
+        padding: 30px 0;
+    }
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 641px) and (max-width: 768px){
+    
+        /*** top banner sec start ***/
+    
+    .top_banner img {
+	   width: 1200px;
+	   left: 53%;
+	   margin-left: -604px;
+	   height: auto;
+    }
+    .top_banner .logo_nav img.logo{
+        width: 90%;
+    }
+    .banner_cap{
+        top: 130px;
+    }
+    .top_banner .banner_cap h1{
+        padding-bottom: 20px;
+        font-size: 35px;
+        width: 90%;
+    }
+    .top_banner .banner_cap p {
+	   width: 75%;
+	   padding-bottom: 15px;
+    }
+    /*** top banner sec end ***/
+    
+    /*** blockchain sec start ***/
+    
+    .blockchain{
+	   padding-top: 40px;
+    }
+    .blockchain h2{
+        padding-bottom: 40px;
+    }
+    .blockchain .blockchain_pic img{
+        width: 100%;
+    }
+    .blockchain p{
+        padding-left: 15px;
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .blockchain a{
+        margin-left: 15px;
+    }
+    /*** blockchain sec end ***/
+    
+    /*** brunch sec start ***/
+    
+    .brunch{
+        padding-top: 40px;
+    }
+    .brunch h2{
+        padding-bottom: 40px;
+    }
+    .brunch .overlay_bg{
+        margin: 25px 50px;
+    }
+    .brunch p{
+        padding: 30px 0;
+    }
+    /*** brunch sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding: 45px 0;
+        height: auto;
+    }
+    .blog .tab{
+        padding-bottom: 15px;
+    }
+    .blog .tab:last-child{
+        padding-bottom: 0px;
+    }
+    .blog .blog_box img{
+        width: 60%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box h5{
+        font-size: 16PX;
+        width: 60%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box p{
+        width: 60%;
+        padding-top: 10px;
+    }
+    /*** blog sec end ***/
+    
+    /*** press sec start ***/
+    
+    .press{
+        padding-top: 40px;
+    }
+    .press h2{
+        padding-bottom: 40px;
+    }
+    .press img.press_bg {
+	left: -58%;
+	height: 450px;
+	top: 42%;
+    }
+    .press .press_pic{
+        padding: 0px;
+    }
+    .press p.date{
+        padding: 20px 0;
+    }
+    .press h4{
+        width: 100%;
+        font-size: 30px;
+    }
+    .press p{
+        padding-bottom: 28px;
+        width: 100%;
+    }
+    .press a{
+        display: table;
+    }
+    /*** press sec end ***/
+    
+    /*** partners sec start ***/
+    
+    .partners{
+        padding-top: 40px;
+    }
+    .partners h2{
+        padding-bottom: 40px;
+    }
+    .partners p{
+        padding: 40px 0;
+    }
+    .partners img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 10px;
+    }
+    /*** partners sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer img{
+        width: auto;
+        display: block;
+        margin: 0px auto;
+    }
+    footer p{
+        text-align: center;
+        margin: 0px auto;
+        width: 59%;
+    }
+    a.read_more{
+        text-align: center;
+        display: block;
+        padding-bottom: 15px;
+    }
+    footer .social{
+        width: auto;
+        margin: 0px auto;
+        display: table;
+        padding-bottom: 15px;
+    }
+    footer input[type="text"]{
+        width: 100%;
+    }
+    footer input[type="email"]{
+        width: 100%;
+    }
+    footer textarea{
+        width: 100%;
+    }
+    footer p.copyright{
+        padding: 30px 0;
+    }
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 481px) and (max-width: 640px){
+    
+            /*** top banner sec start ***/
+    
+    .top_banner img {
+	   width: 1000px;
+	   left: 70%;
+	   margin-left: -604px;
+	   height: auto;
+    }
+    .top_banner .logo_nav img.logo{
+        width: 50%;
+    }
+    .banner_cap{
+        top: 90px;
+    }
+    .top_banner .banner_cap h1{
+        padding-bottom: 15px;
+        font-size: 29px;
+        width: 100%;
+    }
+    .top_banner .banner_cap p {
+	   width: 91%;
+	   padding-bottom: 15px;
+        font-size: 15px;
+    }
+    /*** top banner sec end ***/
+    
+    /*** blockchain sec start ***/
+    
+    .blockchain{
+	   padding-top: 20px;
+    }
+    .blockchain h2{
+        padding-bottom: 20px;
+    }
+    .blockchain .blockchain_pic img{
+        width: 100%;
+    }
+    .blockchain p{
+        padding-left: 15px;
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .blockchain a{
+        margin-left: 15px;
+    }
+    /*** blockchain sec end ***/
+    
+    /*** brunch sec start ***/
+    
+    .brunch{
+        padding-top: 40px;
+    }
+    .brunch h2{
+        padding-bottom: 20px;
+    }
+    .brunch .overlay_bg{
+        margin: 25px 34px;
+    }
+    .brunch p{
+        padding: 20px 0;
+    }
+    /*** brunch sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding: 35px 0;
+        height: auto;
+    }
+    .blog h2{
+        padding-bottom: 20px;
+    }
+    .blog p{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog .tab{
+        padding-bottom: 15px;
+    }
+    .blog .tab:last-child{
+        padding-bottom: 0px;
+    }
+    .blog .blog_box img{
+        width: 60%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box h5{
+        font-size: 16PX;
+        width: 60%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box p{
+        width: 60%;
+        padding-top: 10px;
+    }
+    /*** blog sec end ***/
+    
+    /*** press sec start ***/
+    
+    .press{
+        padding-top: 20px;
+    }
+    .press h2{
+        padding-bottom: 20px;
+    }
+    .press img.press_bg {
+	left: -58%;
+	height: 450px;
+	top: 42%;
+    }
+    .press .press_pic{
+        padding: 0px;
+    }
+    .press p.date{
+        padding: 20px 0;
+    }
+    .press h4{
+        width: 100%;
+        font-size: 30px;
+    }
+    .press p{
+        padding-bottom: 20px;
+        width: 100%;
+    }
+    .press a{
+        display: table;
+    }
+    /*** press sec end ***/
+    
+    /*** partners sec start ***/
+    
+    .partners{
+        padding-top: 20px;
+    }
+    .partners h2{
+        padding-bottom: 20px;
+    }
+    .partners p{
+        padding: 20px 0;
+        font-size: 18px;
+    }
+    .partners img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 10px;
+    }
+    /*** partners sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer img{
+        width: auto;
+        display: block;
+        margin: 0px auto;
+    }
+    footer p{
+        text-align: center;
+        margin: 0px auto;
+        width: 95%;
+        padding: 20px 0;
+    }
+    a.read_more{
+        text-align: center;
+        display: block;
+        padding-bottom: 15px;
+    }
+    footer .social{
+        width: auto;
+        margin: 0px auto;
+        display: table;
+        padding-bottom: 15px;
+    }
+    footer input[type="text"]{
+        width: 100%;
+    }
+    footer input[type="email"]{
+        width: 100%;
+    }
+    footer textarea{
+        width: 100%;
+    }
+    footer p.copyright{
+        padding: 20px 0;
+    }
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (min-width: 321px) and (max-width: 480px){
+    
+    /*** top banner sec start ***/
+    
+    .top_banner{
+        overflow: visible;
+    }
+    .top_banner img {
+	   width: 550px;
+	   left: 70%;
+	   margin-left: -335px;
+	   height: auto;
+    }
+    .top_banner .logo_nav{
+        padding-top: 5px;
+    }
+    .top_banner .logo_nav img.logo{
+        width: 60%;
+    }
+    .banner_cap{
+        top: 44px;
+    }
+    .top_banner .banner_cap h1{
+        padding-bottom: 12px;
+        font-size: 20px;
+        width: 100%;
+    }
+    .top_banner .banner_cap p {
+        width: 100%;
+        padding-bottom: 12px;
+        font-size: 15px;
+        display: none;
+    }
+    /*** top banner sec end ***/
+    
+    /*** blockchain sec start ***/
+    
+    .blockchain{
+	   padding-top: 20px;
+    }
+    .blockchain h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .blockchain .blockchain_pic img{
+        width: 100%;
+    }
+    .blockchain p{
+        padding-left: 15px;
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .blockchain a{
+        margin-left: 15px;
+    }
+    /*** blockchain sec end ***/
+    
+    /*** brunch sec start ***/
+    
+    .brunch{
+        padding-top: 40px;
+    }
+    .brunch h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .brunch .overlay_bg{
+        margin: 25px 18px;
+    }
+    .brunch p{
+        padding: 20px 0;
+    }
+    /*** brunch sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding: 35px 0;
+        height: auto;
+    }
+    .blog h2{
+        padding-bottom: 20px;
+    }
+    .blog p{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog .tab{
+        padding-bottom: 15px;
+    }
+    .blog .tab:last-child{
+        padding-bottom: 0px;
+    }
+    .blog .blog_box img{
+        width: 100%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box h5{
+        font-size: 16PX;
+        width: 100%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box p{
+        width: 100%;
+        padding-top: 10px;
+    }
+    /*** blog sec end ***/
+    
+    /*** press sec start ***/
+    
+    .press{
+        padding-top: 20px;
+    }
+    .press h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .press img.press_bg {
+	left: -58%;
+	height: 450px;
+	top: 42%;
+    }
+    .press .press_pic{
+        padding: 0px;
+    }
+    .press p.date{
+        padding: 20px 0;
+    }
+    .press h4{
+        width: 100%;
+        font-size: 26px;
+    }
+    .press p{
+        padding-bottom: 20px;
+        width: 100%;
+    }
+    .press a{
+        display: table;
+    }
+    /*** press sec end ***/
+    
+    /*** partners sec start ***/
+    
+    .partners{
+        padding-top: 20px;
+    }
+    .partners h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .partners p{
+        padding: 20px 0;
+        font-size: 18px;
+    }
+    .partners img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 10px;
+    }
+    /*** partners sec end ***/
+    
+    /*** footer sec start ***/
+    
+    footer img{
+        width: auto;
+        display: block;
+        margin: 0px auto;
+    }
+    footer p{
+        text-align: center;
+        margin: 0px auto;
+        width: 95%;
+        padding: 20px 0;
+    }
+    a.read_more{
+        text-align: center;
+        display: block;
+        padding-bottom: 15px;
+    }
+    footer .social{
+        width: auto;
+        margin: 0px auto;
+        display: table;
+        padding-bottom: 15px;
+    }
+    footer input[type="text"]{
+        width: 100%;
+    }
+    footer input[type="email"]{
+        width: 100%;
+    }
+    footer textarea{
+        width: 100%;
+    }
+    footer p.copyright{
+        padding: 20px 0;
+    }
+    /*** footer sec end ***/
+    
+}
+
+@media only screen and (max-width: 320px){
+    
+    /*** top banner sec start ***/
+    
+    .top_banner{
+        overflow: visible;
+    }
+    .top_banner img {
+	   width: 550px;
+	   left: 70%;
+	   margin-left: -335px;
+	   height: auto;
+    }
+    .top_banner .logo_nav{
+        padding-top: 5px;
+    }
+    .top_banner .logo_nav img.logo{
+        width: 60%;
+    }
+    .banner_cap{
+        top: 44px;
+    }
+    .top_banner .banner_cap h1{
+        padding-bottom: 12px;
+        font-size: 20px;
+        width: 100%;
+    }
+    .top_banner .banner_cap p {
+        width: 100%;
+        padding-bottom: 12px;
+        font-size: 15px;
+        display: none;
+    }
+    /*** top banner sec end ***/
+    
+    /*** blockchain sec start ***/
+    
+    .blockchain{
+	   padding-top: 20px;
+    }
+    .blockchain h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .blockchain .blockchain_pic img{
+        width: 100%;
+    }
+    .blockchain p{
+        padding-left: 15px;
+        padding-top: 17px;
+        padding-bottom: 17px;
+    }
+    .blockchain a{
+        margin-left: 15px;
+    }
+    /*** blockchain sec end ***/
+    
+    /*** brunch sec start ***/
+    
+    .brunch{
+        padding-top: 40px;
+    }
+    .brunch h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .brunch .overlay_bg{
+        margin: 25px 18px;
+    }
+    .brunch p{
+        padding: 20px 0;
+    }
+    /*** brunch sec end ***/
+    
+    /*** blog sec start ***/
+    
+    .blog{
+        padding: 35px 0;
+        height: auto;
+    }
+    .blog h2{
+        padding-bottom: 20px;
+    }
+    .blog p{
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .blog .tab{
+        padding-bottom: 15px;
+    }
+    .blog .tab:last-child{
+        padding-bottom: 0px;
+    }
+    .blog .blog_box img{
+        width: 100%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box h5{
+        font-size: 16PX;
+        width: 100%;
+        margin: 0px auto;
+        display: block;
+    }
+    .blog .blog_box p{
+        width: 100%;
+        padding-top: 10px;
+    }
+    /*** blog sec end ***/
+    
+    /*** press sec start ***/
+    
+    .press{
+        padding-top: 20px;
+    }
+    .press h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .press img.press_bg {
+	left: -58%;
+	height: 450px;
+	top: 42%;
+    }
+    .press .press_pic{
+        padding: 0px;
+    }
+    .press p.date{
+        padding: 20px 0;
+    }
+    .press h4{
+        width: 100%;
+        font-size: 26px;
+    }
+    .press p{
+        padding-bottom: 20px;
+        width: 100%;
+    }
+    .press a{
+        display: table;
+    }
+    /*** press sec end ***/
+    
+    /*** partners sec start ***/
+    
+    .partners{
+        padding-top: 20px;
+    }
+    .partners h2{
+        padding-bottom: 20px;
+        font-size: 30px;
+    }
+    .partners p{
+        padding: 20px 0;
+        font-size: 18px;
+    }
+    .partners img{
+        width: auto;
+        margin: 0px auto;
+        display: block;
+        padding-bottom: 10px;
+    }
+    /*** partners sec end ***/
+    
+    /*** footer sec start ***/
+    footer{
+        padding-top: 40px;
+    }
+    footer img{
+        width: auto;
+        display: block;
+        margin: 0px auto;
+    }
+    footer p{
+        text-align: center;
+        margin: 0px auto;
+        width: 95%;
+        padding: 20px 0;
+    }
+    a.read_more{
+        text-align: center;
+        display: block;
+        padding-bottom: 15px;
+    }
+    footer .social{
+        width: auto;
+        margin: 0px auto;
+        display: table;
+        padding-bottom: 15px;
+    }
+    footer input[type="text"]{
+        width: 100%;
+    }
+    footer input[type="email"]{
+        width: 100%;
+    }
+    footer textarea{
+        width: 100%;
+    }
+    footer p.copyright{
+        padding: 20px 0;
+    }
+    
+    /*** footer sec end ***/
+    
+}
